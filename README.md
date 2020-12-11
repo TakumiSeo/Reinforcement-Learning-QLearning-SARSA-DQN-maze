@@ -33,7 +33,7 @@ import random
 STEP = 10
 actions = [2, 2, 2, 2]
 for i in range(STEP):
-    point, reward, obs, done = env.step(random.choice(actions))
+    trace, state, reward, obs, done = env.step(random.choice(actions))
     print(point)
 print('obs:{0}, reward:{1}'.format(obs, reward))
 ```
