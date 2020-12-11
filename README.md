@@ -16,6 +16,7 @@ for Q-Learing, SARSA, DQN
  
  ## Environment
 for test
+The agent is supposed to avoid entering water whose colour is skyblue and then make a walk to the goal located the most right below.
 ```python
 import sys
 import os
