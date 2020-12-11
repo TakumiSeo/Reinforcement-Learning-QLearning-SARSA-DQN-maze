@@ -2,7 +2,7 @@
 for Q-Learing, SARSA, DQN
 
 ## Requirement 
-- python3.7
+- python3.6
 - OpenAI Gym
 
 ## install_requires
