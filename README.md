@@ -5,7 +5,7 @@ for Q-Learing, SARSA, DQN
 - python3.7
 - OpenAI Gym
 
-##install_requires
+## install_requires
 ['gym'
  'numpy', 
  'matplotlib', 
@@ -36,3 +36,8 @@ for i in range(STEP):
     print(point)
 print('obs:{0}, reward:{1}'.format(obs, reward))
 ```
+## Results
+![5_5_sa_map](https://user-images.githubusercontent.com/49015441/101862361-8582e700-3bb5-11eb-8a48-0f3ba9257021.png)
+![5_5_ql](https://user-images.githubusercontent.com/49015441/101862365-874caa80-3bb5-11eb-82e8-7752c70a34ff.png)
+![30_30_ql](https://user-images.githubusercontent.com/49015441/101862382-92073f80-3bb5-11eb-878b-deaafd774bf6.png)
+![30_30_ql_reward](https://user-images.githubusercontent.com/49015441/101862388-94699980-3bb5-11eb-9f37-170097915be2.png)
