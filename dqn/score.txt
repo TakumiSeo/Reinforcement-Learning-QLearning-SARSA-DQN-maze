@@ -1,0 +1,69 @@
+Maze:10×10
+===================================================
+DQN non_cnn clip_no 10 10 36sec
+Mode:non_cnn, MAP size:10×10, Computation time:36sec
+Step:500, Score:-5.451999999999998
+Water:-1, Free:-0.3, Wall:-0.5, Goal:1
+===================================================
+===================================================
+DQN non_cnn clip_yes 10 10 46sec
+Mode:non_cnn, MAP size:10×10, Computation time:46sec
+Step:500, Score:-2.74
+Water:-1, Free:0, Wall:-1, Goal:1
+===================================================
+
+Maze:20×20
+===================================================
+DQN non_cnn clip_no 20 20 13min
+Mode:non_cnn, MAP size:20×20, Computation time:13min
+Step:500, Score:-123.61999999999968
+Water:-1, Free:-0.3, Wall:-0.5, Goal:1
+===================================================
+===================================================
+DQN non_cnn clip_no 20 20 7min
+Mode:non_cnn, MAP size:20×20, Computation time:7min
+Step:500, Score:-33.22800000000001
+Water:-1, Free:-0.3, Wall:-0.5, Goal:1
+===================================================
+===================================================
+DQN non_cnn clip_yes 20 20 341sec
+Mode:non_cnn, MAP size:20×20, Computation time:341sec
+Step:500, Score:-47.44
+Water:-1, Free:0, Wall:-1, Goal:1
+===================================================
+DQN non_cnn clip_yes 20 20 279sec
+Mode:non_cnn, MAP size:20×20, Computation time:279sec
+Step:500, Score:-28.04
+Water:-1, Free:0, Wall:-1, Goal:1
+===================================================
+
+===================================================
+DQN non_cnn clip_yes 20 20 204sec
+Mode:non_cnn,Activation:Relu, MAP size:20×20, Computation time:204sec
+Step:500, Score:-14.62
+Water:-1, Free:0, Wall:-1, Goal:1
+===================================================
+===================================================
+DQN non_cnn clip_no 20 20 14min
+Mode:non_cnn,Activation:Relu, MAP size:20×20, Computation time:14min
+Step:500, Score:-17.688000000000002
+Water:-1, Free:-0.3, Wall:-0.5, Goal:1
+===================================================
+===================================================
+DQN non_cnn clip_no 20 20 20min
+Mode:non_cnn,Activation:Relu, MAP size:20×20, Computation time:20min
+Step:500, Score:-88.86800000000002
+Water:-1, Free:-0.3, Wall:-0.5, Goal:1
+===================================================
+===================================================
+DQN non_cnn clip_yes 20 20 273sec
+Mode:non_cnn,Activation:Relu, MAP size:20×20, Computation time:273sec
+Step:500, Score:-29.12
+Water:-1, Free:0, Wall:-1, Goal:1
+===================================================
+===================================================
+DQN non_cnn clip_no 20 20 12min
+Mode:non_cnn,Activation:Relu, MAP size:20×20, Computation time:12min
+Step:1500, Score:-26.64599999999998
+Water:-1, Free:-0.3, Wall:-0.5, Goal:1
+===================================================
