@@ -1,4 +1,7 @@
-# Own-Maze-OpenAI-gym-
+# Reinforcement-Learning-in-the-original-environment-maze-
+/
+README.md
+
 for Q-Learing, SARSA, DQN
 
 ## Requirement 
